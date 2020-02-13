@@ -1,0 +1,6 @@
+echo "# Samuel-sam" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/samuel0009/Samuel-sam.git
+git push -u origin master
